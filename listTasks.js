@@ -13,7 +13,7 @@ function largest(list){
 function reverse(list){
     let buddyFlat = [];
     for (let a=0; a<list.length; a++0){
-        buddyFlat.push();
+        buddyFlat.push(list[a]);
     }
 }
 
