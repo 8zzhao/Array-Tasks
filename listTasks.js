@@ -1,6 +1,6 @@
 //Task 1
 function largest(list){
-    let largest# = list[0];
+    let largestNumber = list[0];
     for (let a=0; a<list.length; a++){
         if (list[a] > list[0]){
             return list[a];
@@ -47,7 +47,7 @@ function total(list){
 
 //Task 6
 function isPalindrome(list){
-
+    let
 }
 
 //Task 7
@@ -57,8 +57,15 @@ function recursiveTotal(list){
 }
 //Task 8
 function concatenate(listA, listB){
-
+    listA = [];
+    ListB = [];
+    for (let b=0; b<listB.length; b++){
+        listA[listA.length+b];
+        console.log(listA[listA.length+b]);
+    }
+    return listA;
 }
+
 
 //Task 9
 function weave(listA, listB){
