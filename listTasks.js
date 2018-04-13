@@ -47,13 +47,20 @@ function total(list){
 
 //Task 6
 function isPalindrome(list){
-    let
+    for (let a=0; a<a.length/2; a++){
+        if (list[a]!=list[list.length-1-a]){
+        }
+    return "false";
+    }
+    return "true";
 }
 
 //Task 7
 //Do second to last
 function recursiveTotal(list){
-
+    for (let a=0; a<list.length; a++){
+        a
+    }
 }
 //Task 8
 function concatenate(listA, listB){
